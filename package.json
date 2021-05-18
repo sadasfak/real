@@ -1,0 +1,22 @@
+{
+  "name": "nodesample",
+  "version": "1.0.0",
+  "description": "sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadasfak/real.git"
+  },
+  "author": "doymakey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadasfak/real.git/issues"
+  },
+  "homepage": "https://github.com/sadasfak/real#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
